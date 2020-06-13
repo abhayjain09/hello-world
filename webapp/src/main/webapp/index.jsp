@@ -1,5 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h1> Abhay Jain loves to travel</h1>
-<h2> I am sorry Shikha.!!!</h2>
+<h1> Hello, Welcome to AWS project   </h1>
+<h2> Abhay Jain loves to travel</h2>
+<h1> I am sorry Shikha.!!!</h1>
+<h1> I'm sorry and let's go back to being how we were. Please forgive me for everything I said.</h1>
